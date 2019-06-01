@@ -1,0 +1,131 @@
+﻿ID,Variable_Name,Variable_Description
+CASEID,CASE_ID,Case identification number
+V1,YEAR_OF_ADMINISTRATION,Year of Administration
+V3,FORM_ID,ID associated with a form
+V4,RS_ID_SERIAL,5 digit code exclusive to each grade
+V5,SAMPLING_WEIGHT,Sampling weight used for all analyses
+V501,GRADE,Grade
+V507,SCHOOL_REGION,"Region of the country, based on Census categories, in which respondent's school is located."
+V508,LARGE_MSA_1_NOT_0,"Component variable, along with V509, for a standardized 3-category measure of population density. Population
+density is largest (""Large MSA"") when V508 is coded 1 and V509 is coded 1, medium-sized (""Other MSA"") when
+V508 is 0 and V509 is 1, and smallest (""Non-MSA"") when both V508 and V509 are coded 0."
+V509,MSA_1_NON_MSA_0,"MSA: Metropolitan Statistical Area as defined for the US Census, a county or group of contiguous counties (or, in
+New England, Consolidated Metropolitan Areas) that contain at least one city of 50,000 inhabitants or more. (Known
+as ""Standard Metropolitan Statistical Area"" in the 1970 census.)"
+V7101,EVR_SMK_CIG_REGL,Have you ever smoked cigarettes?
+V7102,CIGS_SMKD_30DAY,How frequently have you smoked cigarettes during the past 30 days?
+V7442,GR_1ST_SMOK_DLY,"When (if ever) did you FIRST do each of the following things? Don't count anything you took because a doctor told
+you to.
+Smoke cigarettes on a daily basis"
+V7441,GR_1ST_SMOK_EVR,"When (if ever) did you FIRST do each of the following things? Don't count anything you took because a doctor told
+you to.
+Smoke your first cigarette"
+V7103,TRY_STP_SMK_FL,Have you ever tried to stop smoking and found that you could not?
+V7180,TRY_STOP_SMK,"How many times, if any, have you tried to stop smoking?"
+V7181,WNT_STP_SMK_NW,Do you want to stop smoking now?
+V7475,DIF_TRY_QUIT_CIG,"For cigarettes, was there ever a time in your life when you tried to quit or reduce your use and had difficulty doing so?"
+V7428,ALL_FRD_SMK_CIGS,How many of your friends would you estimate . . . smoke cigarettes?
+V8473,STDNTS_SMK_1CIG,"Now think about all the students in your grade at your school. How many of them do you think . . . smoke one or
+more cigarettes a day?"
+V7437,PRESR_TO_SMK_CIG,"How much pressure do you feel from your friends and schoolmates to . . .
+A: Smoke cigarettes?"
+V7412,EASY_GT_CIGS,"How difficult do you think it would be for you to get each of the following types of drugs, if you wanted some?
+Cigarettes"
+V7167,CIG_HOW_BUY_FRND,"During the last 30 days, about how many times (if any) have you bought cigarettes . . .
+A: . . . by having a friend or relative buy them for you?"
+V7168,CIG_HOW_BUY_VEND,"During the last 30 days, about how many times (if any) have you bought cigarettes . . .
+B: . . . on your own from vending machines?"
+V7169,CIG_HOW_BUY_MAIL,"During the last 30 days, about how many times (if any) have you bought cigarettes . . .
+C: . . . through the mail?"
+V7170,CIG_HOW_BUY_PKUP,"During the last 30 days, about how many times (if any) have you bought cigarettes . . .
+D: . . . in a store where you pick up the pack (or carton) and bring it to the check-out counter?"
+V7171,CIG_HOW_BUY_CLRK,"During the last 30 days, about how many times (if any) have you bought cigarettes . . .
+E: . . . in a store where the clerk has to hand you the pack or carton?"
+V7172,CIG_WHERE_SUPMKT,"During the last 30 days, about how many times (if any) did YOU buy cigarettes for your own use . . .
+A: . . . at a big supermarket?"
+V7173,CIG_WHERE_SMLGRC,"During the last 30 days, about how many times (if any) did YOU buy cigarettes for your own use . . .
+B: . . . at a small grocery store?"
+V7174,CIG_WHERE_DRGSTR,"During the last 30 days, about how many times (if any) did YOU buy cigarettes for your own use . . .
+C: . . . at a drugstore?"
+V7175,CIG_WHERE_CNVGAS,"During the last 30 days, about how many times (if any) did YOU buy cigarettes for your own use . . .
+D: . . . at a convenience store (like a Hop-In or 7-11) or a gas station?"
+V7177,CIG_PROOF_OF_AGE,"The last time that you tried to buy cigarettes in a store or gas station, were you asked for proof of age?"
+V7178,CIG_SHOW_ID_SELL,"What happened the last time that you tried to buy cigarettes in a store or gas station and you were asked for proof
+of age?"
+V7179,CIG_STORE_BUYLS_THN20,Have you ever gone to a store and bought just one or a few cigarettes (fewer than the usual pack of 20)?
+V7199,CIG_HOW_BUY_OTHR,"During the last 30 days, about how many times (if any) have you bought cigarettes . . .
+F. . . . bought them in some other way?"
+V7200,CIG_WHERE_WEB,"During the last 30 days, about how many times (if any) did YOU buy cigarettes for your own use . . .
+E: . . . from a Web site?"
+V7185,NO_SMK_IN_5_YR,Do you think you will be smoking cigarettes five years from now?
+V7186,NEVER_CIG_ADDICT,"How much do you agree or disagree with the following statements?
+A: I will never get addicted to cigarettes."
+V7187,QUIT_CIG_WN_WANT,"How much do you agree or disagree with the following statements?
+B: I could smoke a pack a day for a year or more and still be able to quit if I wanted to."
+V7188,SMK_DANGER_QUIT,"How much do you agree or disagree with the following statements?
+C: At my age, smoking is not too dangerous because you can always quit later"
+V7184,START_SMK_THISYR,"If you have never smoked, do you think you will try smoking cigarettes sometime this year?"
+V7451,USE_DRUG_HOME,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+At your home"
+V7452,USE_DRG_FRNDS,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+At friends' houses"
+V7453,US_DRG_SCHEVE,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+At a school dance, a game, or other event"
+V7454,USE_DRG_ATSCH,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+At school during the day"
+V7455,USE_DRG_NRSCH,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+Near school"
+V7456,USE_DRG_INCAR,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+In a car"
+V7457,USE_DRG_PARTY,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+At a party"
+V7481,X_USE_DRG_PARK,"During the LAST 12 MONTHS, how often (if ever) have you used marijuana or any other drugs (like cocaine,
+amphetamines, etc.) in each of the following places?
+At a park or beach"
+V7183,START_SMK_LOSEWT,"Some people start to smoke because they think it will help them lose weight. Was losing weight one of the reasons
+you started to smoke?"
+V7182,QUIT_SMK_WRY_FAT,Do you (or did you) worry that quitting smoking would make you gain weight?
+V7405,HAD_DRUG_EDUCATN,Have you had any drug education courses or lectures in school?
+V7344,DISAP_1_PK_CIGS,"Individuals differ in whether or not they disapprove of people doing certain things. Do YOU disapprove of people
+doing each of the following?
+Smoking one or more packs of cigarettes per day"
+V7359,RSK_OF_CIG1_PK_D,"The next questions ask for your opinions on the effects of using certain drugs and other substances. How much do
+you think people risk harming themselves (physically or in other ways), if they . . . smoke one or more packs of
+cigarettes per day?"
+V7377,RSK_1_5_CIGS_DAY,"How much do you think people risk harming themselves (physically or in other ways), if they . . . smoke one to five
+cigarettes per day?"
+V7706,CIG_SMKRS_ATHLTS,"These days, how many people in the following groups would you guess are regular cigarette smokers?
+A: Professional athletes"
+V7196,SAVED_CIG_COUPON,Have you ever saved coupons from cigarettes (whether or not you bought them yourself)?
+V7197,SAVE_CIG_CPN_NOW,Are you currently saving coupons from cigarettes?
+V7518,SCH_ACTV_ATHLTCS,"To what extent have you participated in the following school activities during this school year?
+Athletic teams"
+V7329,LSTYR_ENJOY_SCHL,"Now thinking back over the past year in school, how often did you . . . enjoy being in school?"
+V7330,LSTYR_HATE_SCHL,"Now thinking back over the past year in school, how often did you . . . hate being in school?"
+V7332,LSTYR_SCH_2_HARD,"Now thinking back over the past year in school, how often did you . . . find the school work too hard to
+understand?"
+V7537,SCHL_RULES_FAIR,Do you feel that the rules about student behavior in your school are generally fair and reasonable?
+V7313,DALY_ACTV_SPORTS,"How often do you do each of the following?
+Actively participate in sports, athletics or exercising"
+V7258,PRNT_ALW_OUT,"How often do your parents (or stepparents or guardians) do the following?
+Allow you to go out with friends on school nights"
+V8512,SATISFD_W_MYSELF,"How much do you agree or disagree with each of the following statements?
+On the whole, I'm satisfied with myself"
+V7202,RS_SEX,What is your sex?
+V1070,RACE_B_W_H,"Recoded from the following: Q. C04 (00041-00049): ""How do you describe yourself? (Select one or more responses.)
+A.Black or African American; B. Mexican American or Chicano; C. Cuban American; D. Puerto Rican;
+E. Other Hispanic or Latino; F. Asian American; G. White (Caucasian); H. American Indian or Alaska Native;
+I. Native Hawaiian or Other Pacific Islander."""
+V8529,OFTN_EXERCISE,"How often do you . . . exercise vigorously (jogging, swimming, calisthenics, or any other active sports)?"
+V7555,DA_WK_ACTV_60_MIN,"During the LAST 7 DAYS, on how many days were you physically active for a total of at least 60 minutes per day?
+(Add up all the time you spent in any kind of physical activity that increased your heart rate and made you get out
+of breath some of the time.)"
+V7593,SMKRS_IN_MOVIE,Think about the movie that you watched most recently. Did any of the characters in the movie smoke cigarettes?
+V7666,SMK_REG_CIG_BEST_FRND,"If one of your best friends were to offer you a cigarette, would you smoke it?"
